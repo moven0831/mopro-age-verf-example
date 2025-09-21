@@ -1,0 +1,12 @@
+-e 
+=== circom output start ===
+Using Circom WASM witness generation
+non-linear constraints: 1905488
+linear constraints: 0
+public inputs: 23
+private inputs: 2083 (34 belong to witness)
+public outputs: 2
+wires: 1707501
+labels: 8337266
+[32mWritten successfully:[0m ./main.r1cs
+=== circom output end ===
